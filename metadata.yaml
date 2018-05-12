@@ -1,0 +1,40 @@
+_repo: Hegel-s-Philosophy-of-Mind_39064
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wallace, William
+    alias: Wallace, W. (William)
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '42701'
+    url: http://www.gutenberg.org/2009/agents/42701
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hegel, Georg Wilhelm Friedrich
+    alias: Hegel, G. W. F. (Georg Wilhelm Friedrich)
+    birthdate: 1770
+    deathdate: 1831
+    gutenberg_agent_id: '2161'
+    url: http://www.gutenberg.org/2009/agents/2161
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+description: 'Hegel''s philosophy of mind -- Section I: Subjective mind. Anthropology,
+  the soul ; Phenomenology of mind ; Psychology, the mind -- Section II: Objective
+  mind. Right ; Morality ; Ethical life -- Section III: Absolute mind. Art ; Revealed
+  religion ; Philosophy.'
+gutenberg_issued: '2012-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39064'
+  lccn: a15000111
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+title: Hegel's Philosophy of Mind
+url: http://www.gutenberg.org/ebooks/39064
